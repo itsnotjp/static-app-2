@@ -1,0 +1,32 @@
+#home {
+    /* height: 70vh; */
+
+    /* background-image: url('images/home-intro.jpg');
+    background-size: auto 100vh; 
+    background-position: top right; 
+    background-repeat: no-repeat; */
+
+}
+
+#featured {
+}
+
+#featured .card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+
+}
+
+.carousel-inner {
+    /* height: 400px;  */
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
